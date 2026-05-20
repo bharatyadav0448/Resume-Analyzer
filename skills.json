@@ -1,0 +1,7 @@
+{
+  "Data Analyst": ["python", "excel", "sql", "pandas", "power bi"],
+  "Web Developer": ["html", "css", "javascript", "react", "node"],
+  "Software Engineer": ["java", "c++", "algorithms", "data structures"],
+  "Cyber Security Analyst": ["network security", "ethical hacking", "firewall", "encryption"],
+  "App Developer": ["java", "kotlin", "android", "flutter"]
+}

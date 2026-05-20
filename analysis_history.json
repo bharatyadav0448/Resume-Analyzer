@@ -1,0 +1,48 @@
+[
+  {
+    "filename": "sample-resume-information-technology.pdf",
+    "date": "2026-05-05 18:58",
+    "best_role": "Software Engineer",
+    "score": 50,
+    "found_skills": [
+      "c++",
+      "excel",
+      "html",
+      "java",
+      "python"
+    ]
+  },
+  {
+    "filename": "functionalsample.pdf",
+    "date": "2026-04-30 18:32",
+    "best_role": "",
+    "score": 0,
+    "found_skills": []
+  },
+  {
+    "filename": "resume-sample.pdf",
+    "date": "2026-04-30 18:32",
+    "best_role": "Software Engineer",
+    "score": 50,
+    "found_skills": [
+      "c++",
+      "excel",
+      "html",
+      "java",
+      "sql"
+    ]
+  },
+  {
+    "filename": "sample-resume-information-technology.pdf",
+    "date": "2026-04-30 18:31",
+    "best_role": "Software Engineer",
+    "score": 50,
+    "found_skills": [
+      "c++",
+      "excel",
+      "html",
+      "java",
+      "python"
+    ]
+  }
+]
